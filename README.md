@@ -2,7 +2,7 @@
 
 ## China vs. USA GDP Statistics Over Time
 
-![GDP Statistics](gdpcomparison.png) 
+![GDP Statistics](gdpcomparison.jpg) 
 
 The graph above displays the GDP trend line for both China and the United States. The years of GDP data ranges from 1960 to 2020. By looking at the graph, it is evident that the United States has maintained a higher GDP than China since 1960.  
 
@@ -10,7 +10,7 @@ Here is a link to the original data source for [China](http://api.worldbank.org/
 
 ## Current Astronauts in Space on ISS vs. Shenzhou 13 
 
-![Astronaut Statistics](astronaut.png) 
+![Astronaut Statistics](astronaut.jpg) 
 
 The pie chart above displays the percentage of astronauts in space currently on the ISS (International Space Station) vs. Shenzhou 13. By looking at the pie chart, it is evident that a majority of the astronauts in space are currently living on the International Space Station (70%) compared to Shenzhou 13 (30%). 
 
