@@ -10,7 +10,7 @@ Here is a link to the original data source for [China](http://api.worldbank.org/
 
 ## Current Astronauts in Space on ISS vs. Shenzhou 13 
 
-![Astronaut Statistics](astronaut.jpg) 
+![Astronaut Statistics](astronauts.jpg) 
 
 The pie chart above displays the percentage of astronauts in space currently on the ISS (International Space Station) vs. Shenzhou 13. By looking at the pie chart, it is evident that a majority of the astronauts in space are currently living on the International Space Station (70%) compared to Shenzhou 13 (30%). 
 
